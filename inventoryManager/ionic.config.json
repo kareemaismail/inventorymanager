@@ -1,0 +1,7 @@
+{
+  "name": "inventoryManager",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
